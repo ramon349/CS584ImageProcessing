@@ -1,0 +1,5 @@
+
+Move the file darknet.py to the corresponding darknet folder to run ifnerence properly. Script usses absolute paths to find images. 
+
+if replicating  results change: 
+  model used, model_cfg,model_weights and meta using absolute paths 
