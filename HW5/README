@@ -3,3 +3,6 @@ Move the file darknet.py to the corresponding darknet folder to run ifnerence pr
 
 if replicating  results change: 
   model used, model_cfg,model_weights and meta using absolute paths 
+  
+ voc_label.py should be run from the repos directory. it was modified so that the final labels would be the class names instead of the IDs. Also fixed some strange pathing 
+ issue 
